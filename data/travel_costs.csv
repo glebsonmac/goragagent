@@ -1,0 +1,5 @@
+location,daily_cost,hotel_avg,food_avg,source
+California,350,200,80,travel_budget_2023.pdf
+Texas,250,150,60,tx_cost_analysis.pdf
+Florida,300,180,70,fl_expense_guide.pdf
+New York,400,250,100,ny_cost_report.csv 
