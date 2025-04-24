@@ -140,11 +140,5 @@ The following test improvements are planned:
 - Caching mechanism for faster responses
 - More sophisticated prompt engineering
 - Additional data sources and formats support
-- gRPC API support
 
-## Contributing
-Contributions are welcome! Please feel free to submit issues and pull requests.
-
-## License
-MIT License - see LICENSE file for details
 
